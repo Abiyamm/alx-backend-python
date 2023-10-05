@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-'''Task 4: Define variables'''
+'''Task 4: Define variables
+'''
+
 
 a: int = 1
 pi: float = 3.14

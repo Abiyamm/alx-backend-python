@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
-'''Task 3: Basic annotations - to string'''
+'''Task 2: Basic annotations - floor
+'''
 
-def to_str(n: float) -> str:
-    '''Converts a floating-point number to a string.'''
-    return str(n)
+
+def floor(a: float) -> int:
+    '''Computes the floor of a floating-point number.
+    '''
+    return int(a)

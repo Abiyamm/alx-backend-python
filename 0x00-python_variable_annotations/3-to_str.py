@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
-'''Task 2: Basic annotations - floor
-'''
+'''Task 3: Contains a function that returns a string representation of a float'''
 
 
-def floor(a: float) -> int:
-    '''Computes the floor of a floating-point number.
+def to_str(n: float) -> str:
+    '''Returns a string representation of a float
+    Args:
+        n: A float to convert to a string
+    Returns:
+        A string representation of the float
     '''
-    return int(a)
+    return str(n)

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""Task 3: Contains a function that returns a string representation of a float"""
-
+'''Task 3: Basic annotations - to string
+'''
 
 def to_str(n: float) -> str:
     """Returns a string representation of a float
